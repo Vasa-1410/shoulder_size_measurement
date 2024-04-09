@@ -13,9 +13,10 @@ The MoveNet model used in this project is a lightweight model designed for singl
 Diagrammatic Representation
 
 ## Formulas
-- ** Euclidean Distance Formula: \( d = \sqrt{{(x_2 - x_1)}^2 + {(y_2 - y_1)}^2} \)
-- ** Pixel-to-Distance Ratio: \( \text{Pixel-to-Distance Ratio} = \frac{{\text{Average Distance Between Two Pupils}}}{{\text{Measured Distance Between Pupils in Pixels}}} \)
-- ** Shoulder Width Approximation: \( \text{Shoulder Width (mm)} = \text{Pixel Distance of Shoulder Width} \times \text{Pixel-to-Distance Ratio} \)
+- **Euclidean Distance Formula**: d = sqrt((x2 - x1)^2 + (y2 - y1)^2)
+- **Pixel-to-Distance Ratio**: Pixel-to-Distance Ratio = (Average Distance Between Two Pupils) / (Measured Distance Between Pupils in Pixels)
+- **Shoulder Width Approximation**: Shoulder Width (mm) = Pixel Distance of Shoulder Width * Pixel-to-Distance Ratio
+
 
 ### Use Cases
 * Tailoring and Fashion Industry: Precise shoulder measurements are crucial for tailoring clothes to fit perfectly. This project can assist tailors and fashion designers in obtaining accurate shoulder width measurements.
