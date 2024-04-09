@@ -24,5 +24,5 @@ Diagrammatic Representation
 * Virtual Fitting Rooms: Online retailers can utilize this project to provide virtual fitting rooms where customers can input their measurements for a more personalized shopping experience.
 ## Dependencies
 * TensorFlow Lite: This project requires TensorFlow Lite for running the MoveNet model inference on various platforms.
-* Python 3.x: The project is implemented in Python 3.x and requires Python environment setup.
+* Python 3.9: The project is implemented in Python 3.x and requires Python environment setup.
 Other dependencies: Check the requirements.txt file for additional dependencies.
